@@ -32,7 +32,7 @@ require (
 	github.com/ncruces/go-sqlite3 v0.18.1
 	github.com/ncruces/go-sqlite3/gormlite v0.18.0
 	github.com/pion/interceptor v0.1.37
-	github.com/pion/logging v0.2.2
+	github.com/pion/logging v0.2.4
 	github.com/pion/rtcp v1.2.15
 	github.com/pion/rtp v1.8.10
 	github.com/pion/sdp/v3 v3.0.9
@@ -42,7 +42,7 @@ require (
 	github.com/rs/zerolog v1.33.0
 	github.com/samber/slog-common v0.17.1
 	github.com/shirou/gopsutil/v4 v4.24.8
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/valyala/fasthttp v1.61.0
 	github.com/vishvananda/netlink v1.1.0
 	github.com/yapingcat/gomedia v0.0.0-20240601043430-920523f8e5c7
@@ -98,7 +98,7 @@ require (
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/ncruces/julianday v1.0.0 // indirect
 	github.com/pion/datachannel v1.5.10 // indirect
-	github.com/pion/dtls/v3 v3.0.4 // indirect
+	github.com/pion/dtls/v3 v3.0.11 // indirect
 	github.com/pion/ice/v4 v4.0.3 // indirect
 	github.com/pion/mdns/v2 v2.0.7 // indirect
 	github.com/pion/randutil v0.1.0 // indirect
@@ -106,6 +106,7 @@ require (
 	github.com/pion/srtp/v3 v3.0.4 // indirect
 	github.com/pion/stun/v3 v3.0.0 // indirect
 	github.com/pion/transport/v3 v3.0.7 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pion/turn/v4 v4.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
